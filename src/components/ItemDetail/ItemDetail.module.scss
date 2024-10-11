@@ -1,0 +1,30 @@
+@import '../../assets/scss/colors';
+
+.itemDetail {
+  margin-top: 100px;
+  color: $color1;
+}
+
+.itemImage {
+  max-width: 90%;
+  max-height: 50vh;
+  backdrop-filter: blur(7px);  /* Desenfoque de fondo, opcional */
+  background-color: rgba(255, 255, 255, 0); /* Más transparencia */
+  
+ 
+
+
+   
+  
+  
+
+  @media (min-width: 768px) {
+    & {
+      max-height: 70vh;
+    }
+  }
+}
+
+.itemCategory {
+  color: $color1;
+}

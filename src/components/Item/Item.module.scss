@@ -1,0 +1,29 @@
+@import '../../assets/scss/colors';
+
+.card {
+  width: 18rem;
+  text-align: center;
+  text-wrap: balance;
+  backdrop-filter: blur(10px);  /* Desenfoque de fondo, opcional */
+  background-color: rgba(255, 255, 255, 0); /* Más transparencia */
+  color: $color1;
+}
+
+.imageContainer {
+  display: flex;
+  flex-wrap: wrap;
+  height: 250px;
+  align-content: center;
+  justify-content: center;
+  
+}
+
+.cardImgTop {
+  max-height: 250px;
+  max-width: 250px;
+  
+}
+
+.itemPrice {
+  color: $color1;
+}

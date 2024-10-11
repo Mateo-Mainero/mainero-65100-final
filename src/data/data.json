@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Galaxy S23 128GB",
+        "description": "6.1” Dynamic AMOLED 2X Infinity-O | Batería 3900 mAh | Procesador Qualcomm Snapdragon 8 Gen2 | 8GB RAM | 50MP Wide 12MP Ultra Wide 10MP Tele 3X Optical Zoom 30X Space Zoom",
+        "category": "Celulares",
+        "image": "https://back.panafoto.com/media/catalog/product/cache/22adb41f3f66ba957b3b3b7b0df44fe6/1/5/152381-001.jpg",
+        "price": 900,
+        "stock": 55
+    },
+    {
+        "id": 2,
+        "name": "Pixel 7",
+        "description":  "Full-screen 6.3-inch (160.5 mm) display FHD+ (1080 x 2400) OLED at 416 PPI | 4355 mAh battery | 8 GB LPDDR5 RAM 128GB / UFS 3.1 storage",
+        "category": "CELULARES",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_753909-MLA75094869558_032024-O.webp",
+        "price": 499,
+        "stock": 80
+    }, {
+        "id": 3,
+        "name": "Iphone 14 128GB",
+        "description": "6.1-inch display | Up to 26 hours video playback | A15 Bionic chip with 5-core GPU | Advanced dual-camera system",
+        "category": "CELULARES",
+        "image": "https://acdn.mitiendanube.com/stores/001/097/819/products/iphone-14-d622eb108010ce0e7816968122124877-1024-1024.jpg",
+        "price": 799.99,
+        "stock": 35
+    }, {
+        "id": 4,
+        "name": "MSI Thin GF63",
+
+        "description": "15.6 144Hz Gaming Laptop 1920x1080 | GPU: GeForce RTX 4050 Laptop | CPU: Intel Core i7-12650H | Memory: 16 GB DDR4 | Storage: 512 GB SSD",
+        "category": "COMPUTADORAS",
+        "image": "https://cdn.tiendanegocio.com/gallery/24267/img_24267_191ccfd678a.png",
+        "price": 849.49,
+        "stock": 30
+    }, {
+        "id": 5,
+        "name": "Dell XPS 13",
+        "description": 
+        "12th Gen Intel® Core™ i5-1230U (12 MB cache, 10 cores, up to 4.40 GHz Turbo) | Windows 11 Home | Intel® Iris® Xe Graphics | Display 13.4, FHD+ 1920x1200, 60Hz, Anti-Glare, 500 nit | RAM 8 GB, LPDDR5, 5200 MHz, integrated, dual-channel | 256 GB, PCIe x2 NVMe, SSD",
+        "category": "COMPUTADORAS",
+        "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9315/media-gallery/notebook-xps-9315-nt-blue-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=575&qlt=100,1&resMode=sharp2&size=575,402&chrss=full",
+        "price": 599,
+        "stock": 50
+    }, {
+        "id": 6,
+        "name": "Macbook Air M2 13.6",
+        "description": "8-Core CPU | 8-Core GPU | 8GB RAM | 256GB SSD | 16-core Neural Engine | 13.6-inch Liquid Retina display with True Tone | MagSafe 3 charging port | Two Thunderbolt / USB 4 ports | Touch ID | 30W USB-C Power Adapter",
+        "category": "COMPUTADORAS",
+        "image": "https://i0.wp.com/www.aslanstoreuy.com/wp-content/uploads/2024/06/MacBook-Air-M2-Retina-13.6-2022-Midnight-Aslan-Store-1.png?fit=900%2C900&ssl=1",
+        "price": 1309,
+        "stock": "Sin Stock"
+    }, {
+        "id": 7,
+        "name": "Galaxy Tab S9 128GB",
+        "description": 
+        "11.0 Dynamic AMOLED 2X 120Hz | Qualcomm Snapdragon 8 Gen 2 | GPU Qualcomm Adreno 740 with Ray Tracing | Camera Front: 12MP UW Rear: 13MP | Android 13 | Battery 8,400mAh",
+        "category": "TABLETS",
+        "image": "https://samsungar.vtexassets.com/arquivos/ids/192816/Galaxy-Tab-S9-FE_Gray_Product-Image_Combo.png?v=638337600068970000",
+        "price": 699,
+        "stock": 70
+    }, {
+        "id": 8,
+        "name": "Surface Pro 9 128GB",
+        "description": "2 in 1 | Windows 11 | 12th Gen Intel® Core™ i5-1235U processor | 8GB RAM | Screen: 13” PixelSense™ Flow Display Resolution: 2880 X 1920 (267 PPI)",
+        "category": "TABLETS",
+        "image": "https://cdn.uvation.com/uvationmarketplace/catalog/product/s/u/surface_pro_9-platinum.jpg",
+        "price": 999.99,
+        "stock": 40
+    }, {
+        "id": 9,
+        "name":"iPad 10th 64GB",
+        "description": "10.9 Liquid Retina display | A14 Bionic chip | Landscape 12MP Ultra Wide front camera | 12MP Wide camera | Touch ID in top button | USB-C connector | Supports Apple Pencil (1st generation)",
+        "category": "TABLETS",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_603636-MLA52178249676_102022-O.webp",
+        "price": 499.99,
+        "stock": 40
+    }
+    
+]

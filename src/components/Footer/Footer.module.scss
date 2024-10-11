@@ -1,0 +1,67 @@
+footer {
+    backdrop-filter: blur(7px);  /* Desenfoque de fondo, opcional */
+  background-color: rgba(255, 255, 255, 0); /* Más transparencia */
+  }
+  
+  footer h5 {
+    font-size: 1.15rem; /* Reducir el tamaño de la fuente */
+    font-weight: bold;
+  }
+  
+  footer p, footer ul {
+    font-size: 0.9rem; /* Reducir el tamaño de los textos */
+  }
+  
+  footer a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  footer a:hover {
+    color: #00aaff;
+  }
+  
+  footer .fab {
+    font-size: 1.2rem; /* Reducir tamaño de iconos */
+    transition: color 0.3s ease;
+  }
+  
+  footer .fab:hover {
+    color: #00aaff;
+  }
+  
+  footer ul {
+    padding-left: 0;
+  }
+  
+  footer ul li {
+    list-style: none;
+    margin-bottom: 0.3rem; /* Reducir separación de los elementos */
+  }
+  
+  footer .text-light {
+    opacity: 0.8;
+  }
+  
+  footer .text-light:hover {
+    opacity: 1;
+  }
+  
+  footer .py-3 {
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
+  }
+  
+  footer .py-2 {
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+  }
+  
+  footer .mt-2 {
+    margin-top: 0.5rem !important;
+  }
+  
+  footer iframe {
+    margin-bottom: 0.5rem; /* Reducir espacio debajo del mapa */
+  }
+  
