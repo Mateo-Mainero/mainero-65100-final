@@ -35,13 +35,6 @@ function Footer() {
               <li><i className="fas fa-phone"></i> +54 11 1234 5678</li>
               <li><i className="fas fa-map-marker-alt"></i> Flia Bolson, La Comarca</li>
             </ul>
-
-            <div className="mt-2">
-              <h5 className="text-uppercase mb-2">Síguenos</h5>
-              <a href="https://facebook.com" className="me-3 text-light" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook"></i></a>
-              <a href="https://instagram.com" className="me-3 text-light" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
-              <a href="https://twitter.com" className="me-3 text-light" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
-            </div>
           </div>
 
         </div>
@@ -50,9 +43,9 @@ function Footer() {
         <div className="row mt-2">
           <div className="col text-center">
             <a href="/about" className="text-light me-4">Sobre nosotros</a>
-            <a href="https://www.instagram.com/benjamainero/" className="text-light me-4">Contacto</a>
+            <a href="https://www.instagram.com/benjamainero/" target="_blank" rel="noopener noreferrer" className="text-light me-4">Contacto</a>
             <a href="/faq" className="text-light me-4">FAQs</a>
-            <a href="https://es.wikipedia.org/wiki/Pol%C3%ADtica_de_privacidad" className="text-light me-4">Política de privacidad</a>
+            <a href="https://es.wikipedia.org/wiki/Pol%C3%ADtica_de_privacidad" target="_blank" rel="noopener noreferrer" className="text-light me-4">Política de privacidad</a>
           </div>
         </div>
       </div>
